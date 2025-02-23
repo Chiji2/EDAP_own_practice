@@ -1,4 +1,5 @@
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
+pip install matplotlib
 import numpy as np
 import streamlit as st
 if st.button("Test this one"):
